@@ -21,4 +21,4 @@ def findEvenFibonacci(number):
         myNum = FibonacciSequence(a)
         if myNum % 2 == 0:
             print(myNum, end = ", ")
-findEvenFibonacci(35)
+findEvenFibonacci(10)

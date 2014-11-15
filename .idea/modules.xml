@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../HPC Programming/.idea/AssignmentOne.iml" filepath="$PROJECT_DIR$/../HPC Programming/.idea/AssignmentOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Hello-World/.idea/Hello-World.iml" filepath="$PROJECT_DIR$/../Hello-World/.idea/Hello-World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Internet-Programming/.idea/Internet-Programming.iml" filepath="$PROJECT_DIR$/../Internet-Programming/.idea/Internet-Programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Project Euler.iml" filepath="$PROJECT_DIR$/.idea/Project Euler.iml" />
     </modules>
   </component>
