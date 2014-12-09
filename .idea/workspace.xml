@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="07ff853a-d636-4b42-838e-9f6b7dcc6827" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Project Euler.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,13 +36,13 @@
     <leaf>
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
-          <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-              <caret line="3" column="131" selection-start-line="3" selection-start-column="131" selection-end-line="3" selection-end-column="131" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.083798885" vertical-offset="0" max-vertical-offset="537">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="MarkdownPreviewEditor">
+          <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
         </entry>
@@ -828,13 +827,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-          <caret line="3" column="131" selection-start-line="3" selection-start-column="131" selection-end-line="3" selection-end-column="131" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.083798885" vertical-offset="0" max-vertical-offset="537">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="MarkdownPreviewEditor">
+      <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
     </entry>
