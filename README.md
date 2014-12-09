@@ -1,7 +1,10 @@
 [Project-Euler Problems](https://projecteuler.net/)
 =============
-
-Click on: _ID_ number to view source and _Description/Title_ to view description of problem on [https://projecteuler.net/problems]
+This is my attempt at solving Euler's Project problems using python
+Click on: 
+-
+  _ID_ number to view source
+  _Description/Title_ to view description of problem on [https://projecteuler.net/problems]
  
 Problems
 --------
