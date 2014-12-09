@@ -11,4 +11,4 @@ Problems
 |[3](https://github.com/jwkimani/Project-Euler/blob/master/id3_largest_prime_factor.py) |[Largest Prime Factor](https://projecteuler.net/problem=3)|
 |[4](https://github.com/jwkimani/Project-Euler/blob/master/id4_Largest_palindrome_product.py)|[Largest palindrome product](https://projecteuler.net/problem=4)|
 |[5](https://github.com/jwkimani/Project-Euler/blob/master/id5_Smallest_multiple.py)|[Smallest multiple](https://projecteuler.net/problem=5)|
-|[6]()|[Sum square difference](https://projecteuler.net/problem=6)|
+|[6](https://github.com/jwkimani/Project-Euler/blob/master/id6_Sum_Square_Difference.py)|[Sum square difference](https://projecteuler.net/problem=6)|
