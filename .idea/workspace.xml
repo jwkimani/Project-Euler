@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07ff853a-d636-4b42-838e-9f6b7dcc6827" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/id6_Sum_Square_Difference.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/id4_Largest_palindrome_product.py" afterPath="$PROJECT_DIR$/id4_Largest_palindrome_product.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/id5_Smallest_multiple.py" afterPath="$PROJECT_DIR$/id5_Smallest_multiple.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Project Euler.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -20,6 +20,7 @@
     <SUITE FILE_PATH="coverage/Project Euler$id2_Even_Fibonacci_Numbers.coverage" NAME="id2_Even_Fibonacci_Numbers Coverage Results" MODIFIED="1410125757260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Project Euler$1_Multiples_of_3_and_5.coverage" NAME="1_Multiples_of_3_and_5 Coverage Results" MODIFIED="1409889870679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Project Euler$id4_Largest_palindrome_product.coverage" NAME="id4_Largest_palindrome_product Coverage Results" MODIFIED="1418132932723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project Euler$id6_Sum_Square_Difference.coverage" NAME="id6_Sum_Square_Difference Coverage Results" MODIFIED="1418134598522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Project Euler$id5_Smallest_multiple.coverage" NAME="id5_Smallest_multiple Coverage Results" MODIFIED="1418132071739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Project Euler$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1410126335173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Hello-World" />
   </component>
@@ -38,13 +39,23 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.54545456" vertical-offset="0" max-vertical-offset="330">
-              <caret line="12" column="83" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
+            <state vertical-scroll-proportion="0.59090906" vertical-offset="0" max-vertical-offset="330">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding />
             </state>
           </provider>
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="id6_Sum_Square_Difference.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/id6_Sum_Square_Difference.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="65" max-vertical-offset="510">
+              <caret line="26" column="145" selection-start-line="26" selection-start-column="145" selection-end-line="26" selection-end-column="145" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -107,6 +118,7 @@
         <option value="$PROJECT_DIR$/../Hello-World/helloworld.py" />
         <option value="$PROJECT_DIR$/id5_Smallest_multiple.py" />
         <option value="$PROJECT_DIR$/id4_Largest_palindrome_product.py" />
+        <option value="$PROJECT_DIR$/id6_Sum_Square_Difference.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -211,26 +223,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.id4_Largest_palindrome_product">
-    <configuration default="false" name="id2_Even_Fibonacci_Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Project Euler" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/id2_Even_Fibonacci_Numbers.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.id6_Sum_Square_Difference">
     <configuration default="false" name="helloworld" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -302,6 +295,25 @@
       <module name="Project Euler" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/id5_Smallest_multiple.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="id6_Sum_Square_Difference" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Project Euler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/id6_Sum_Square_Difference.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -458,19 +470,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.id2_Even_Fibonacci_Numbers" />
-      <item index="1" class="java.lang.String" itemvalue="Python.helloworld" />
-      <item index="2" class="java.lang.String" itemvalue="Python.id4_Largest_palindrome_product" />
-      <item index="3" class="java.lang.String" itemvalue="Python.runTime" />
-      <item index="4" class="java.lang.String" itemvalue="Python.id5_Smallest_multiple" />
+      <item index="0" class="java.lang.String" itemvalue="Python.helloworld" />
+      <item index="1" class="java.lang.String" itemvalue="Python.id4_Largest_palindrome_product" />
+      <item index="2" class="java.lang.String" itemvalue="Python.runTime" />
+      <item index="3" class="java.lang.String" itemvalue="Python.id5_Smallest_multiple" />
+      <item index="4" class="java.lang.String" itemvalue="Python.id6_Sum_Square_Difference" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.id4_Largest_palindrome_product" />
-        <item index="1" class="java.lang.String" itemvalue="Python.id5_Smallest_multiple" />
-        <item index="2" class="java.lang.String" itemvalue="Python.runTime" />
-        <item index="3" class="java.lang.String" itemvalue="Python.helloworld" />
-        <item index="4" class="java.lang.String" itemvalue="Python.id2_Even_Fibonacci_Numbers" />
+        <item index="0" class="java.lang.String" itemvalue="Python.id6_Sum_Square_Difference" />
+        <item index="1" class="java.lang.String" itemvalue="Python.id4_Largest_palindrome_product" />
+        <item index="2" class="java.lang.String" itemvalue="Python.id5_Smallest_multiple" />
+        <item index="3" class="java.lang.String" itemvalue="Python.runTime" />
+        <item index="4" class="java.lang.String" itemvalue="Python.helloworld" />
       </list>
     </recent_temporary>
   </component>
@@ -706,10 +718,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/id6_Sum_Square_Difference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="65" max-vertical-offset="510">
+          <caret line="26" column="145" selection-start-line="26" selection-start-column="145" selection-end-line="26" selection-end-column="145" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54545456" vertical-offset="0" max-vertical-offset="330">
-          <caret line="12" column="83" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
+        <state vertical-scroll-proportion="0.59090906" vertical-offset="0" max-vertical-offset="330">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding />
         </state>
       </provider>
